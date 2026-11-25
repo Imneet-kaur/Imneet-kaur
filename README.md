@@ -14,10 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imneet-kaur-110688aa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:kaur007imneet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
+  <a href="https://imneet-kaur.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-imneet--kaur.github.io-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/imneet-kaur-110688aa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-8%2B_years-blue?style=flat-square" />
@@ -160,18 +158,18 @@ I care about continuous improvement and about using **Generative AI tools** in p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Imneet-kaur">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-      <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Imneet-kaur&show_icons=true&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Imneet-kaur&show_icons=true&theme=default&hide_border=true" />
+      <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Imneet-kaur&show_icons=true&theme=default&hide_border=true" />
     </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Imneet-kaur&theme=dark&hide_border=true" />
   </a>
 </p>
 
