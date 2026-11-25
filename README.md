@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:7C3AED&height=180&section=header&text=Imneet%20Kaur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Certified%20ScrumMaster%C2%AE%20%7C%20Agile%20Delivery%20%7C%20Team%20Leadership&descAlignY=60&descSize=16" alt="Imneet Kaur banner" />
+  <a href="https://imneet-kaur.github.io/portfolio/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:7C3AED&height=180&section=header&text=Imneet%20Kaur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Certified%20ScrumMaster%C2%AE%20%7C%20Agile%20Delivery%20%7C%20Team%20Leadership&descAlignY=60&descSize=16" alt="Imneet Kaur banner" /></a>
 </div>
 
 <h3 align="center">
   Hi, I'm Imneet Kaur
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h3>
 
 <p align="center"><b>A Scrum Master who keeps teams focused, unblocked, and shipping, with a background in technology, business analysis, and QA.</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Certified+ScrumMaster%C2%AE+%7C+Agile+Delivery;Sprint+Facilitation+%7C+Jira+%7C+Release+Coordination;Business+Analysis+%7C+QA+%7C+UAT;Generative+AI+for+Learning+%26+Delivery&center=true&width=650&height=50&font=Fira+Code&pause=1000" alt="Typing SVG">
+  <a href="https://imneet-kaur.github.io/portfolio/"><img src="https://readme-typing-svg.demolab.com?lines=Certified+ScrumMaster%C2%AE+%7C+Agile+Delivery;Sprint+Facilitation+%7C+Jira+%7C+Release+Coordination;Business+Analysis+%7C+QA+%7C+UAT;Generative+AI+for+Learning+%26+Delivery&center=true&width=650&height=50&font=Fira+Code&pause=1000" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
   <a href="https://www.linkedin.com/in/imneet-kaur-110688aa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-8%2B_years-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based_in-Bengaluru%2C_India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum_Alliance-CSM%C2%AE-009FDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/PMI-RMP%C2%AE-5C2D91?style=flat-square" />
-  <img src="https://img.shields.io/badge/French-DELF_B1-0055A4?style=flat-square" />
+  <a href="#"><img src="https://img.shields.io/badge/Experience-8%2B_years-blue?style=flat-square" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Based_in-Bengaluru%2C_India-orange?style=flat-square&logo=googlemaps&logoColor=white" /></a>
+  <a href="https://www.scrumalliance.org"><img src="https://img.shields.io/badge/Scrum_Alliance-CSM%C2%AE-009FDA?style=flat-square" /></a>
+  <a href="https://www.pmi.org/certifications/risk-management-rmp"><img src="https://img.shields.io/badge/PMI-RMP%C2%AE-5C2D91?style=flat-square" /></a>
+  <a href="https://www.france-education-international.fr/en/delf-dalf"><img src="https://img.shields.io/badge/French-DELF_B1-0055A4?style=flat-square" /></a>
 </p>
 
 ## ☀️ About Me
@@ -88,11 +88,11 @@ I care about continuous improvement and about using **Generative AI tools** in p
 <summary><b>📋 Agile & Project Management</b></summary>
 <br>
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Framework-009FDA?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Methodology-2EA44F?style=for-the-badge)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com)
+[![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Scrum](https://img.shields.io/badge/Scrum-Framework-009FDA?style=for-the-badge)](https://scrumguides.org)
+[![Agile](https://img.shields.io/badge/Agile-Methodology-2EA44F?style=for-the-badge)](https://agilemanifesto.org)
 
 </details>
 
@@ -100,13 +100,13 @@ I care about continuous improvement and about using **Generative AI tools** in p
 <summary><b>💬 Collaboration & Productivity</b></summary>
 <br>
 
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-teams)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/word)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imneet-kaur)
 
 </details>
 
@@ -114,13 +114,13 @@ I care about continuous improvement and about using **Generative AI tools** in p
 <summary><b>🤖 Generative AI</b></summary>
 <br>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Vids](https://img.shields.io/badge/Google_Vids-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Nano Banana](https://img.shields.io/badge/Nano_Banana-FBBC04?style=for-the-badge&logo=google&logoColor=black)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.com)
+[![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://labs.google/flow)
+[![Google Vids](https://img.shields.io/badge/Google_Vids-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/products/vids/)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FBBC04?style=for-the-badge&logo=google&logoColor=black)](https://gemini.google/overview/image-generation/)
 
 </details>
 
@@ -128,14 +128,14 @@ I care about continuous improvement and about using **Generative AI tools** in p
 <summary><b>🎨 Content, Presentation & Learning</b></summary>
 <br>
 
-![Gamma](https://img.shields.io/badge/Gamma-6E40C9?style=for-the-badge)
-![Napkin AI](https://img.shields.io/badge/Napkin_AI-111111?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
-![Narakeet](https://img.shields.io/badge/Narakeet-FF6F00?style=for-the-badge)
-![LMS](https://img.shields.io/badge/LMS-Learning_Management-0891b2?style=for-the-badge)
-![SCORM](https://img.shields.io/badge/SCORM-eLearning-5C2D91?style=for-the-badge)
-![SPARK](https://img.shields.io/badge/SPARK-LMS-D22128?style=for-the-badge)
+[![Gamma](https://img.shields.io/badge/Gamma-6E40C9?style=for-the-badge)](https://gamma.app)
+[![Napkin AI](https://img.shields.io/badge/Napkin_AI-111111?style=for-the-badge)](https://www.napkin.ai)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
+[![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com)
+[![Narakeet](https://img.shields.io/badge/Narakeet-FF6F00?style=for-the-badge)](https://www.narakeet.com)
+[![LMS](https://img.shields.io/badge/LMS-Learning_Management-0891b2?style=for-the-badge)](#)
+[![SCORM](https://img.shields.io/badge/SCORM-eLearning-5C2D91?style=for-the-badge)](https://scorm.com)
+[![SPARK](https://img.shields.io/badge/SPARK-LMS-D22128?style=for-the-badge)](#)
 
 </details>
 
@@ -180,5 +180,5 @@ I care about continuous improvement and about using **Generative AI tools** in p
 <p align="center"><em>Helping teams deliver with clarity, collaboration, and continuous improvement.</em></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0E7490&height=100&section=footer" alt="footer" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0E7490&height=100&section=footer" alt="footer" /></a>
 </div>
